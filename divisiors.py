@@ -1,3 +1,0 @@
-range(1,number + 1)  
-number % i == 0:
-exit()
